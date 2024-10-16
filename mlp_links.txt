@@ -1,0 +1,7 @@
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+---------------------------------
+https://github.com/faizanxmulla/CS2008-machine-learning-practice
+---------------------------------
+https://github.com/ananddotiyer/IIT-M/tree/main/My%20Notes/MLP
+----------------------------------
+https://github.com/esviswajith95/MLP
